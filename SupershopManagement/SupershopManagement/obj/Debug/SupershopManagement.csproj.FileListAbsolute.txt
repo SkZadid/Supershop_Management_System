@@ -1,0 +1,244 @@
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe.config
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.pdb
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\bin\Debug\Guna.UI2.dll
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Design.dll
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.dll
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Fonts.dll
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.AssemblyReference.cache
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.FormLogin.resources
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Properties.Resources.resources
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.GenerateResource.cache
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CopyComplete
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.exe
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.pdb
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.FormManager.resources
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Employee.FormEmployee.resources
+D:\AIUB\C#\Project C# final\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Employee.UserControlManageEmployee.resources
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe.config
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.pdb
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\Guna.UI2.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Design.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Fonts.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.AssemblyReference.cache
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Employee.FormEmployee.resources
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.FormLogin.resources
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.FormManager.resources
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Properties.Resources.resources
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.GenerateResource.cache
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CoreCompileInputs.cache
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CopyComplete
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.exe
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.pdb
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.dll
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.xml
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManagerProfile.resources
+F:\AIUB\7th Semester\Final\OOP-2\Codes\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManageEmployee.resources
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe.config
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.pdb
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\Guna.UI2.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Design.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Fonts.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.dll
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.xml
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.AssemblyReference.cache
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Employee.FormEmployee.resources
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.FormLogin.resources
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.FormManager.resources
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManageEmployee.resources
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManagerProfile.resources
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Properties.Resources.resources
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.GenerateResource.cache
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CoreCompileInputs.cache
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\Supersho.B191624D.Up2Date
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.exe
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.pdb
+F:\C#\Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.Products.resources
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe.config
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.pdb
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\Guna.UI2.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Design.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Fonts.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.dll
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.xml
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.AssemblyReference.cache
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Employee.FormEmployee.resources
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.FormLogin.resources
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.FormManager.resources
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.Products.resources
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManageEmployee.resources
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManagerProfile.resources
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Properties.Resources.resources
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.GenerateResource.cache
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CoreCompileInputs.cache
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CopyComplete
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.exe
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.pdb
+F:\AIUB\7th Semester\Final\OOP-2\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManageProducts.resources
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\Guna.UI2.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Fonts.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe.config
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.pdb
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Design.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.dll
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\C#\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.xml
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.AssemblyReference.cache
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Employee.FormEmployee.resources
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Employee.UserControlBill.resources
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.FormLogin.resources
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.FormManager.resources
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.Products.resources
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManageEmployee.resources
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManageProducts.resources
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManagerProfile.resources
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Properties.Resources.resources
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.GenerateResource.cache
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CoreCompileInputs.cache
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\Supersho.B191624D.Up2Date
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.exe
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.pdb
+F:\C#\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.UserControlSellsRecord.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe.config
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.exe
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\SupershopManagement.pdb
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\Guna.UI2.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\RestSharp.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Buffers.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.CodeDom.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Memory.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Text.Json.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.AssemblyReference.cache
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Employee.FormEmployee.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Employee.UserControlBill.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.FormLogin.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.FormManager.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.Products.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManageEmployee.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManageProducts.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Manager.UserControlManagerProfile.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.Properties.Resources.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.UserControlSellsRecord.resources
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.GenerateResource.cache
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.csproj.CopyComplete
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.exe
+C:\Users\Bishal\Desktop\C# Project\SupershopManagement\SupershopManagement\obj\Debug\SupershopManagement.pdb

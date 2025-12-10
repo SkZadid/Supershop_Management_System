@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|f:\\aiub\\7th semester\\final\\oop-2\\codes\\c# project\\supershopmanagement\\supershopmanagement\\manager\\usercontrolsellsrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\manager\\usercontrolsellsrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\manager\\usercontrolsellsrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\manager\\usercontrolsellsrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\employee\\usercontrolbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\employee\\usercontrolbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\employee\\usercontrolbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\employee\\usercontrolbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\manager\\usercontrolmanagerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\manager\\usercontrolmanagerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\manager\\usercontrolmanageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\manager\\usercontrolmanageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\manager\\usercontrolmanageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\manager\\usercontrolmanageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\employee\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\employee\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\manager\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\manager\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\employee\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\employee\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\manager\\usercontrolmanageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\manager\\usercontrolmanageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\supershopmanagement\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE9F4D73-DC01-4631-A886-CD52C093B310}|SupershopManagement\\SupershopManagement.csproj|solutionrelative:supershopmanagement\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControlManageEmployee.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlManageEmployee.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Manager\\UserControlManageEmployee.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlManageEmployee.cs [Design]",
+              "RelativeToolTip": "SupershopManagement\\Manager\\UserControlManageEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:26:51.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\FormLogin.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\FormLogin.cs [Design]",
+              "RelativeToolTip": "SupershopManagement\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:57:04.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControlManagerProfile.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlManagerProfile.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Manager\\UserControlManagerProfile.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlManagerProfile.cs [Design]",
+              "RelativeToolTip": "SupershopManagement\\Manager\\UserControlManagerProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:44:52.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormManager.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\FormManager.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Manager\\FormManager.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\FormManager.cs [Design]",
+              "RelativeToolTip": "SupershopManagement\\Manager\\FormManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:32:17.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Program.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Program.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Program.cs",
+              "RelativeToolTip": "SupershopManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:24:13.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormEmployee.cs",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Employee\\FormEmployee.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Employee\\FormEmployee.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Employee\\FormEmployee.cs",
+              "RelativeToolTip": "SupershopManagement\\Employee\\FormEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:18:19.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormEmployee.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Employee\\FormEmployee.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Employee\\FormEmployee.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Employee\\FormEmployee.cs [Design]",
+              "RelativeToolTip": "SupershopManagement\\Employee\\FormEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:16:57.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControlManageProducts.cs",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlManageProducts.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Manager\\UserControlManageProducts.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlManageProducts.cs",
+              "RelativeToolTip": "SupershopManagement\\Manager\\UserControlManageProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:49:39.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControlManageProducts.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlManageProducts.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Manager\\UserControlManageProducts.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlManageProducts.cs [Design]",
+              "RelativeToolTip": "SupershopManagement\\Manager\\UserControlManageProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:49:37.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlSellsRecord.cs",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlSellsRecord.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Manager\\UserControlSellsRecord.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlSellsRecord.cs",
+              "RelativeToolTip": "SupershopManagement\\Manager\\UserControlSellsRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:25:26.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlSellsRecord.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlSellsRecord.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Manager\\UserControlSellsRecord.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Manager\\UserControlSellsRecord.cs [Design]",
+              "RelativeToolTip": "SupershopManagement\\Manager\\UserControlSellsRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:17:22.546Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlBill.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Employee\\UserControlBill.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Employee\\UserControlBill.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Employee\\UserControlBill.cs [Design]",
+              "RelativeToolTip": "SupershopManagement\\Employee\\UserControlBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:09:17.6Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlBill.cs",
+              "DocumentMoniker": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Employee\\UserControlBill.cs",
+              "RelativeDocumentMoniker": "SupershopManagement\\Employee\\UserControlBill.cs",
+              "ToolTip": "F:\\AIUB\\7th Semester\\Final\\OOP-2\\Codes\\C# Project\\SupershopManagement\\SupershopManagement\\Employee\\UserControlBill.cs",
+              "RelativeToolTip": "SupershopManagement\\Employee\\UserControlBill.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowGoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:17:08.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
