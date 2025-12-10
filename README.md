@@ -89,7 +89,7 @@ This **Super Shop Management System** is a desktop-based inventory and transacti
 
 | 👤 Name        | 🆔 Student ID  |
 |---------------|---------------|
-| Bishal Paul   | 22-47036-1     |
+| Sheikh Muhummad Jadid | 22-46998-1 |
 
 > 🧑‍💻 This project was developed as a **solo project** for the Spring 2023–2024 term at **AIUB**.
 
